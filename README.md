@@ -15,7 +15,7 @@ To analyze CRM data across leads, opportunities, and sales channels in order to 
  #### Lead By industry
  #### Lead by Stage
 
- . Excel <a href="https://github.com/SURYALAVANKULA1998/DA/blob/main/Lead%20Dashboard.png">Lead Dashboard</a> <a href="https://github.com/SURYALAVANKULA1998/CRM_Analytics/blob/main/opportunity%20dashboard%20.png">Opportunity Dashboard</a>
+ . Excel <a href="https://github.com/SURYALAVANKULA1998/DA/blob/main/Lead%20Dashboard.png">Lead Dashboard</a> <a href="https://github.com/SURYALAVANKULA1998/CRM_Analytics/blob/main/opportunity%20dashboard%20.png">OPPortunity Dashboard</a>
  ## Project Process:
 . Data Collection:
   Gathered CRM data from Excel and CSV files (Leads, Opportunities, Accounts, Users, Opportunity Products).
