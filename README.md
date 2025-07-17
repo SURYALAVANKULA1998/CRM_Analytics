@@ -40,4 +40,6 @@ To analyze CRM data across leads, opportunities, and sales channels in order to 
 ## Dashboard
 https://github.com/SURYALAVANKULA1998/DA/blob/main/Lead%20Dashboard.png
 <img width="2200" height="1020" alt="Lead Dashboard" src="https://github.com/user-attachments/assets/8e088047-6594-45b5-bea0-86e066e660ba" />
+<img width="1746" height="1100" alt="opportunity dashboard " src="https://github.com/user-attachments/assets/0b34de9c-6b22-4e52-870b-58f3561e7fdb" />
+
 
