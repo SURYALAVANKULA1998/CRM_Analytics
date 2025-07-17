@@ -6,8 +6,8 @@ To analyze CRM data across leads, opportunities, and sales channels in order to 
 . <a href="https://github.com/SURYALAVANKULA1998/DA/blob/main/Excel.xlsx">Dataset</a>
 
 ## KPI List
- #### Total Lead
- #### Expected Amount from Converted Leads 
+ ####Total Lead
+ ####Expected Amount from Converted Leads 
  . Conversion Rate-Conversion Rate (%)=(Leads Converted to Customers/Total Lead​)×100
  . Converted Accounts
  . Converted Opportunities
