@@ -20,19 +20,19 @@ To analyze CRM data across leads, opportunities, and sales channels in order to 
 . Data Collection:
   Gathered CRM data from Excel and CSV files (Leads, Opportunities, Accounts, Users, Opportunity Products).
 
-. Data Cleaning & Preparation
+. Data Cleaning & Preparation:
   Removed duplicates, handled missing values, and ensured consistency across tables.
 
-. Data Modeling
+. Data Modeling:
   Built relationships between tables (e.g., Leads to Opportunities, Opportunities to Products).
 
-. Exploratory Data Analysis (EDA)
+. Exploratory Data Analysis (EDA):
   Analyzed lead sources, opportunity stages, and revenue trends using pivot tables and formulas.
 
-. Dashboard Creation
+. Dashboard Creation:
   Created visual dashboards (e.g., Expected vs. Forecast Revenue, Opportunity by Industry, Conversion Rates) using Excel charts.
 
-. Insight Generation
+. Insight Generation:
   Identified key patterns like top-performing sources, conversion bottlenecks, and win/loss trends.
 
 . Recommendations
