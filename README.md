@@ -1,2 +1,1 @@
-# DA
-Analyzed CRM data across Leads, Opportunities, and Products to identify trends in conversion rates, revenue forecasts, and top-performing industries. Built dashboards and visualizations to uncover bottlenecks and provided actionable insights to improve sales performance.
+To analyze CRM data across leads, opportunities, and sales channels in order to identify trends, measure conversion performance, and uncover insights that support data-driven decision-making for improving customer acquisition and revenue growth.
