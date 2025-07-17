@@ -37,9 +37,12 @@ To analyze CRM data across leads, opportunities, and sales channels in order to 
 
 . Recommendations
   Suggested actions to improve lead conversion, strengthen high-performing channels, and optimize sales strategy.
-## Dashboard
+## Excel Dashboard
 https://github.com/SURYALAVANKULA1998/DA/blob/main/Lead%20Dashboard.png
 <img width="2200" height="1020" alt="Lead Dashboard" src="https://github.com/user-attachments/assets/8e088047-6594-45b5-bea0-86e066e660ba" />
 <img width="1746" height="1100" alt="opportunity dashboard " src="https://github.com/user-attachments/assets/0b34de9c-6b22-4e52-870b-58f3561e7fdb" />
+## PowerBI
+<img width="2554" height="1308" alt="Lead dashboard" src="https://github.com/user-attachments/assets/ad13ecb0-d078-429d-aff7-f7642e762124" />
+<img width="2322" height="1318" alt="Opportunity dashboard" src="https://github.com/user-attachments/assets/cd942745-90e0-4c65-8d94-10267124876a" />
 
 
