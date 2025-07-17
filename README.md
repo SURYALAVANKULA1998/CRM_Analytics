@@ -6,14 +6,14 @@ To analyze CRM data across leads, opportunities, and sales channels in order to 
 . <a href="https://github.com/SURYALAVANKULA1998/DA/blob/main/Excel.xlsx">Dataset</a>
 
 ## KPI List
- ####Total Lead
- ####Expected Amount from Converted Leads 
- . Conversion Rate-Conversion Rate (%)=(Leads Converted to Customers/Total Lead​)×100
- . Converted Accounts
- . Converted Opportunities
- . Lead By Source
- . Lead By industry
- . Lead by Stage
+ #### Total Lead
+ #### Expected Amount from Converted Leads 
+ #### Conversion Rate-Conversion Rate (%)=(Leads Converted to Customers/Total Lead​)×100
+ #### Converted Accounts
+ #### Converted Opportunities
+ #### Lead By Source
+ #### Lead By industry
+ #### Lead by Stage
 
  . Dashboard <a href="https://github.com/SURYALAVANKULA1998/DA/blob/main/Lead%20Dashboard.png">Lead Dashboard</a>
  ## Project Process:
