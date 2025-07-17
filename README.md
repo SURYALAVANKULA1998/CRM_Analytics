@@ -1,4 +1,4 @@
-<img width="174" height="94" alt="image" src="https://github.com/user-attachments/assets/87ba2039-9c7e-415c-9f93-5632c5d60420" /># Customer Relationship Management (CRM) Data Analysis
+
 ## Project Objective
 To analyze CRM data across leads, opportunities, and sales channels in order to identify trends, measure conversion performance, and uncover insights that support data-driven decision-making for improving customer acquisition and revenue growth.
 
