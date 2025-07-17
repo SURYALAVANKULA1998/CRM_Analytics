@@ -39,3 +39,5 @@ To analyze CRM data across leads, opportunities, and sales channels in order to 
   Suggested actions to improve lead conversion, strengthen high-performing channels, and optimize sales strategy.
 ## Dashboard
 https://github.com/SURYALAVANKULA1998/DA/blob/main/Lead%20Dashboard.png
+<img width="2200" height="1020" alt="Lead Dashboard" src="https://github.com/user-attachments/assets/8e088047-6594-45b5-bea0-86e066e660ba" />
+
